@@ -132,6 +132,11 @@ hr
     padding-bottom: 50px;
 }
 
+.footer-link
+{
+    font-size: 30px;
+}
+
 .p-rights
 {
    color: #EAF6F6;
